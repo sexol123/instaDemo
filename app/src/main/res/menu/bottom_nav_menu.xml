@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/mainFragment"
+        android:icon="@drawable/ic_home"
+        android:iconTint="@color/colorPrimaryDark"
+        android:title="@string/home"
+        tools:targetApi="o" />
+    <item
+        android:id="@+id/searchFragment"
+        android:icon="@drawable/ic_search"
+        android:iconTint="@color/colorPrimaryDark"
+        android:title="@string/search"
+        tools:targetApi="o"/>
+    <item
+        android:id="@+id/newPostFragment"
+        android:icon="@drawable/ic_add"
+        android:iconTint="@color/colorPrimaryDark"
+        android:title="@string/new_post"
+        tools:targetApi="o"/>
+    <item
+        android:id="@+id/likedFragment"
+        android:icon="@drawable/ic_heart"
+        android:iconTint="@color/colorPrimaryDark"
+        android:title="@string/liked"
+        tools:targetApi="o"/>
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_user"
+        android:iconTint="@color/colorPrimaryDark"
+        android:title="@string/profile"
+        tools:targetApi="o"/>
+</menu>

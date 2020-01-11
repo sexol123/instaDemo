@@ -1,0 +1,82 @@
+[
+  {
+    "id": "0",
+    "date": "1578761373000",
+    "user_name": "Sergei",
+    "user_place": "The Museum",
+    "user_avatar": "https://picsum.photos/id/1025/200/300",
+    "photos": [
+      {
+        "url": "https://www.thecocktaildb.com/images/media/drink/2x8thr1504816928.jpg",
+        "title": "accusamus beatae ad facilis cum similique qui sunt",
+        "albumId": 1,
+        "id": 1,
+        "thumbnailUrl": "https://via.placeholder.com/150/92c952"
+      },
+      {
+        "url": "https://via.placeholder.com/600/771796",
+        "title": "reprehenderit est deserunt velit ipsam",
+        "albumId": 1,
+        "id": 2,
+        "thumbnailUrl": "https://via.placeholder.com/150/771796"
+      }
+    ],
+    "liked_by": [
+      "Julia",
+      "Kate",
+      "John"
+    ],
+    "tags": [
+      "#kharkov",
+      "#mood",
+      "#makeup"
+    ]
+  },
+  {
+    "id": "1",
+    "date": "1578768573000",
+    "user_name": "Ivan",
+    "user_place": "The Brow Bar Kharkov",
+    "user_avatar": "https://picsum.photos/id/1025/200/300",
+    "photos": [
+      {
+        "url": "https://picsum.photos/200/300?random=1",
+        "title": "officia porro iure quia iusto qui ipsa ut modi",
+        "albumId": 1,
+        "id": 32,
+        "thumbnailUrl": ""
+      },
+      {
+        "url": "https://picsum.photos/1024/1920?random=2",
+        "title": "officia porro iure quia iusto qui ipsa ut modi",
+        "albumId": 1,
+        "id": 324,
+        "thumbnailUrl": ""
+      },
+      {
+        "url": "https://picsum.photos/400/800?random=3",
+        "title": "officia porro iure quia iusto qui ipsa ut modi",
+        "albumId": 1,
+        "id": 3,
+        "thumbnailUrl": ""
+      },
+      {
+        "url": "https://picsum.photos/400/800?random=4",
+        "title": "culpa odio esse rerum omnis laboriosam voluptate repudiandae",
+        "albumId": 1,
+        "id": 4,
+        "thumbnailUrl": ""
+      }
+    ],
+    "liked_by": [
+      "Julia",
+      "Kate",
+      "John"
+    ],
+    "tags": [
+      "#kharkov",
+      "#mood",
+      "#makeup"
+    ]
+  }
+]

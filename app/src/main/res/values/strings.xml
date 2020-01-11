@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TestTaskAnoda</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="new_post">New Post</string>
+    <string name="liked">Liked</string>
+    <string name="profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
