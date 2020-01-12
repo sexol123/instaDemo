@@ -38,7 +38,7 @@ class HomeViewModel(
             stream.close()
             json = String(buffer, charset)
         } catch (ex: IOException) {
-            ex.printStackTrace()
+           Log.d(this::class.java.name, ex.toString(), ex.fillInStackTrace())
         }
         return json
     }
